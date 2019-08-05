@@ -6,9 +6,9 @@ blurb:
   heading: Perche Coffe shop?
   text: >-
     Coffe shop è il negozio del "caffe" per tutti quelli che credono che un buon
-    caffe non dovrebbe solo avere un buon sapore, ma anche fare del bene . I
-    grani del nostro caffe ci vengono forniti da piccoli agricoltori sostenibili
-    e ci assicuriamo che una parte dei profitti venga reinvestita nelle loro
+    caffe non debba solo avere un buon sapore, ma anche fare del bene . I grani
+    del nostro caffe ci vengono forniti da piccoli agricoltori sostenibili e ci
+    assicuriamo che una parte dei profitti venga reinvestita nelle loro
     comunità.
 intro:
   heading: Cosa offriamo?
