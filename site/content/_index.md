@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Andiamo a prendere un caffe"
+subtitle: dietro l'angolo?
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
