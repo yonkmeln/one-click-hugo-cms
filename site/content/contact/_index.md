@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.png
 contact_entries:
   - heading: Dove siamo?
-    text: "Dietro l'angolo"
+    text: Dietro l'angolo
   - heading: Ore Lavorative
-    text: "Da lunedì a venerdi dalle 9.00 alle 19.00"
+    text: Da lunedì a venerdi dalle 9.00 alle 19.00
 ---
 
 Ci piacerebbe sentire le tue idee per migliorare il nostro business.
